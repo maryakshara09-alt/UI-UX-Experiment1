@@ -1,9 +1,13 @@
 # UI-UX-Experiment1
 
 ##Aim:
+
+
 To explore the fundamentals of User Interface (UI) and User Experience (UX), differentiate between them using real-world case studies, illustrate their relationship in design, and demonstrate various UI/UX tools.
 
 ##Algorithm:
+
+
 Study the definitions and fundamentals of UI and UX.
 
 1.Select real-world applications/websites for case study comparison.
